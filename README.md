@@ -1,4 +1,4 @@
-# learningHTMLhobby_enddel
+# learningsomethinghobby_enddel
 I am just learning it by myself, and playing with the languages
 
 I'm also learning how to use github
